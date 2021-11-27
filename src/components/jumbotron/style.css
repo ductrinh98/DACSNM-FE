@@ -1,0 +1,17 @@
+@media only screen and (max-width: 375px) {
+    .display-4 {
+        font-size: 3rem ;
+    }
+    .lead {
+        font-size: 1.15rem ;
+    }
+  }
+
+.jumbotron {
+    text-align: center;
+    height: 300px;
+    background-color: #D6BAE0;
+    color: #391F44;
+    clear: both;
+    padding-top: 100px
+}
